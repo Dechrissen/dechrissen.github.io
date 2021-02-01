@@ -10,12 +10,12 @@ layout: default
 I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography.
 
 ## Education
-- **2018 – 2021** — Stony Brook University, M.A. Computational Linguistics, *summa cum laude*
-- **2016 – 2018** — Stony Brook University, B.A. Linguistics, *summa cum laude*
-- **2013 – 2016** — Suffolk County Community College, coursework in Computer Science
+- **2018 – 2021** — Stony Brook University, M.A. Computational Linguistics, *Summa Cum Laude*
+- **2016 – 2018** — Stony Brook University, B.A. Linguistics, *Summa Cum Laude*
+- **2013 – 2016** — Suffolk County Community College, coursework in Computer Science & Japanese
 
 ## Projects
-- [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning research library for subregular language learning
+- [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: *n*-grams and PCFGs
 - [**Bingo-Toolie**](https://banjospeedruns.com/bingo-toolie) — a companion web app for Banjo-Tooie speedrun bingo written with jQuery
