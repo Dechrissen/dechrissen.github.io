@@ -3,11 +3,11 @@ layout: default
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<p style="text-align: center; font-size: 20px;"> <a href="mailto:derekcandersen@gmail.com"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="/documents/Andersen_Derek_Resume.pdf" target="_blank"><i class="fa fa-paperclip"></i></a> </p>
+<p style="text-align: center; font-size: 20px;"> <a href="mailto:derekcandersen@gmail.com"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="/documents/Andersen_Derek_Resume.pdf" target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
 
 ## About
-I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography.
+I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography. My academic output, including papers, project reports, and Jupyter Notebooks, can be found [here](https://derekandersen.net/output.html).
 
 ## Education
 - **2018 – 2021** — Stony Brook University, M.A. Computational Linguistics, *Summa Cum Laude*
