@@ -19,7 +19,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: *n*-grams and PCFGs
 - [**banjospeedruns.com**](https://banjospeedruns.com/) — the community website for the Banjo-Kazooie speedrunning community
-- [**Bingo-Toolie**](https://banjospeedruns.com/bingo-toolie) — a companion web app for Banjo-Tooie speedrun bingo written with jQuery
+- [**Bingo-Toolie**](https://banjospeedruns.com/bt/bingo-toolie) — a companion web app for Banjo-Tooie speedrun bingo written with jQuery
 - [**PokeQuiz**](https://pypi.org/project/pokequiz/) — a Python package for command-line Pokémon quizzes
 - [**speedrunb0t**](https://github.com/Dechrissen/speedrunb0t) — an IRC bot for [twitch.tv](https://www.twitch.tv/) with [speedrun.com](https://www.speedrun.com/) API integration
 
