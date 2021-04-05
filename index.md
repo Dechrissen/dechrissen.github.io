@@ -10,11 +10,12 @@ layout: default
 I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography. My academic output (including papers, project reports, and Jupyter Notebooks) can be found [here](https://derekandersen.net/other/output.html).
 
 ## Education
-- **2018 – 2021** — Stony Brook University, M.A. Computational Linguistics
-- **2016 – 2018** — Stony Brook University, B.A. Linguistics, *Summa Cum Laude*
-- **2013 – 2016** — Suffolk County Community College, coursework in Computer Science & Japanese
+- **2018 – 2021** — M.A. in Computational Linguistics @ Stony Brook University
+- **2016 – 2018** — B.A. in Linguistics, *Summa Cum Laude* @ Stony Brook University 
+- **2013 – 2016** — Coursework in Computer Science & Japanese @ Suffolk County Community College
 
 ## Projects
+- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a Node.js bot for Discord
 - [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: *n*-grams and PCFGs
