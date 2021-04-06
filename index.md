@@ -12,7 +12,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 My résumé is [here](/documents/resume.pdf).
 
 ## Education
-- **2018 – 2021** — M.A. in Computational Linguistics @ Stony Brook University
+- **2019 – 2021** — M.A. in Computational Linguistics @ Stony Brook University
 - **2016 – 2018** — B.A. in Linguistics, *Summa Cum Laude* @ Stony Brook University
 - **2013 – 2016** — Coursework in Computer Science & Japanese @ Suffolk County Community College
 
