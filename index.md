@@ -6,12 +6,14 @@ layout: default
 <p style="text-align: center; font-size: 20px;"> <a href="mailto:derekcandersen@gmail.com"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="/documents/resume.pdf" target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
 
-## About
-I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography. My academic output (including papers, project reports, and Jupyter Notebooks) can be found [here](https://derekandersen.net/other/output.html).
+## About Me
+I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography. My academic output (including papers, project reports, and Jupyter Notebooks) can be found [here](https://derekandersen.net/other/output.html).  
+
+My résumé is [here](/documents/resume.pdf).
 
 ## Education
 - **2018 – 2021** — M.A. in Computational Linguistics @ Stony Brook University
-- **2016 – 2018** — B.A. in Linguistics, *Summa Cum Laude* @ Stony Brook University 
+- **2016 – 2018** — B.A. in Linguistics, *Summa Cum Laude* @ Stony Brook University
 - **2013 – 2016** — Coursework in Computer Science & Japanese @ Suffolk County Community College
 
 ## Projects
@@ -27,6 +29,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 ## Coursework
 - Computational Linguistics I & II
 - Computational Phonology
+- Statistics for Linguists Using R
 - Language & Technology
 - Syntax
 - Phonology
