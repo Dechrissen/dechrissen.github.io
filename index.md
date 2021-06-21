@@ -17,7 +17,8 @@ My résumé is [here](/documents/resume.pdf).
 - **2013 – 2016** — Coursework in Computer Science & Japanese @ Suffolk County Community College
 
 ## Projects
-- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a Node.js bot for Discord
+- [**my blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, which utilizes `node.js`, `showdown.js`, and `mustache.js`
+- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a `node.js` bot for Discord
 - [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: *n*-grams and PCFGs
