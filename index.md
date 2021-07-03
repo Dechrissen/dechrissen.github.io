@@ -3,7 +3,7 @@ layout: default
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<p style="text-align: center; font-size: 20px;"> <a href="mailto:derekcandersen@gmail.com"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe></i></a></p>
+<p style="text-align: center; font-size: 20px;"> <a href="mailto:derekcandersen@gmail.com"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> </p>
 
 
 ## About Me
