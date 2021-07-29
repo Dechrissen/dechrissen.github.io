@@ -7,7 +7,9 @@ layout: default
 
 
 ## About Me
-I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and issues in natural language processing. I also have an interest in web development and design, including UX design and typography. I have experience with Python, JavaScript, HTML/CSS, and using the Linux command line.  My academic output (including papers, project reports, and Jupyter Notebooks) can be found [here](https://derekandersen.net/other/output.html).  
+I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and natural language processing/understanding. I also have an interest in web development and design, including UX design and typography. I have experience with Python, JavaScript, HTML/CSS, the Linux command line, and using Git for version control.  
+
+My academic papers, project reports, and project code repositories can be found [on my personal website](https://derekandersen.net/other/output.html).  
 
 
 ## Education
