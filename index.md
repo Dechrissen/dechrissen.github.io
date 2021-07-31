@@ -3,7 +3,7 @@ layout: default
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> </p>
+<p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> • <a href="https://derekandersen.net/resume.pdf"  target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
 
 ## About Me
@@ -12,6 +12,8 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 I have experience with Python, JavaScript, HTML/CSS, the Linux command line, and using Git for version control.  
 
 My academic papers, project reports, and project code repositories can be found [on my personal website](https://derekandersen.net/other/output.html).  
+
+My résumé can be found [here](https://derekandersen.net/resume.pdf).
 
 
 ## Education
