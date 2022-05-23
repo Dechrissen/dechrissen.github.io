@@ -12,7 +12,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 
 I have experience with Python, JavaScript, HTML/CSS, the Linux command line, and using Git for version control.
 
-All of my academic papers, project reports, and project code repositories can be found [here](https://dechrissen.github.io/academia.html).
+All of my academic papers, project reports, and project code repositories can be found [here](https://dechrissen.github.io/academic-output.html).
 
 My résumé is [here](https://dechrissen.github.io/assets/resume.pdf).
 
