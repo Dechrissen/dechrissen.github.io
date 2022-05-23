@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> • <a href="https://derekandersen.net/resume.pdf"  target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
+<p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> • <a href="https://dechrissen.github.io/assets/resume.pdf"  target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
 ## About Me
 
@@ -12,7 +12,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 
 I have experience with Python, JavaScript, HTML/CSS, the Linux command line, and using Git for version control.
 
-My academic papers, project reports, and project code repositories can be found [here](https://derekandersen.net/other/output.html).
+All of my academic papers, project reports, and project code repositories can be found [here](https://dechrissen.github.io/academia.html).
 
 My résumé is [here](https://dechrissen.github.io/assets/resume.pdf).
 
@@ -24,8 +24,9 @@ My résumé is [here](https://dechrissen.github.io/assets/resume.pdf).
 
 ## Projects
 
-- [**my blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing `node.js`, `showdown.js`, and `mustache.js`
-- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a `node.js` bot for Discord
+- [**Studying Saturdays**](https://derekandersen.net/blog/studying-saturdays) — a weekly casual learning event that takes place in my Discord server
+- [**My blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing `Node.js`, `showdown.js`, and `mustache.js`
+- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a `Node.js` bot for Discord
 - [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: _n_-grams and PCFGs
