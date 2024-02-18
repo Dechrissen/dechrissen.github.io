@@ -12,7 +12,7 @@ I graduated from Stony Brook University with an M.A. in Computational Linguistic
 
 I have experience with the **Linux** command line, **Python**, and using **Git** for version control. I have used the **Java Speech Grammar Format (JSGF)** extensively for grammar creation for use in speech recognition. I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
 
-I've also worked with web development tools like **Node**, **JavaScript**, **HTML/CSS**, and **jQuery** to develop a few websites and web apps.
+I've also worked with web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, and **jQuery** to develop a few websites and web apps.
 
 [Here](https://dechrissen.github.io/academic-output.html) are my academic papers, project reports, and code repositories.
 
@@ -34,7 +34,7 @@ I've also worked with web development tools like **Node**, **JavaScript**, **HTM
 - [**banjospeedruns.com**](https://banjospeedruns.com/) — the community website for the Banjo-Kazooie speedrunning community
 - [**Bingo-Toolie**](https://banjospeedruns.com/bt/bingo-toolie) — a companion web app for Banjo-Tooie speedrun bingo written with jQuery
 - [**PokeQuiz**](https://pypi.org/project/pokequiz/) — a Python package for command-line Pokémon knowledge quizzes
-- [**speedrunb0t**](https://github.com/Dechrissen/speedrunb0t) — an IRC chatbot for [twitch.tv](https://www.twitch.tv/) with [speedrun.com](https://www.speedrun.com/) integration
+- [**speedrunb0t**](https://github.com/Dechrissen/speedrunb0t) — an IRC chatbot for [Twitch.tv](https://www.twitch.tv/) with [Speedrun.com](https://www.speedrun.com/) integration
 
 ## Coursework
 
