@@ -27,7 +27,7 @@ I've also worked with web development tools like **Node.js**, **JavaScript**, **
 ## Projects
 
 - [**Studying Saturdays**](https://derekandersen.net/blog/studying-saturdays) — an automated weekly learning event that takes place in a Discord server
-- [**Custom blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing `Node.js`, `showdown.js`, and `mustache.js`
+- [**Custom blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing Node.js, Showdown.js, and Mustache.js
 - [**MLRegTest** (co-author)](https://github.com/heinz-jeffrey/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
 - [**Language modeling**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: _n_-grams and PCFGs
