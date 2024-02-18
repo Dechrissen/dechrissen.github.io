@@ -8,32 +8,33 @@ layout: default
 
 ## About Me
 
-I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics as it applies to language technology and natural language processing/understanding. I also have an interest in web development and design, including UX design and typography.
+I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics and its application to language technology and natural language understanding.
 
-I have experience with Python, JavaScript, HTML/CSS, the Linux command line, and using Git for version control.
+I have experience with the **Linux** command line, **Python**, and using **Git** for version control. I have used the **Java Speech Grammar Format (JSGF)** extensively for grammar creation for use in speech recognition. I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
 
-All of my academic papers, project reports, and project code repositories can be found [here](https://dechrissen.github.io/academic-output.html).
+I've also worked with web development tools like **Node**, **JavaScript**, **HTML/CSS**, and **jQuery** to develop a few websites and web apps.
 
-My résumé is [here](https://dechrissen.github.io/assets/resume.pdf).
+[Here](https://dechrissen.github.io/academic-output.html) are my academic papers, project reports, and code repositories.
+
+[Here](https://dechrissen.github.io/assets/resume.pdf) is my résumé.
 
 ## Education
 
-- **2019 – 2021** — M.A. in Computational Linguistics @ Stony Brook University
-- **2016 – 2018** — B.A. in Linguistics, _Summa Cum Laude_ @ Stony Brook University
-- **2013 – 2016** — Coursework in Computer Science & Japanese @ Suffolk County Community College
+- **[2019 – 2021]** M.A. in Computational Linguistics, Stony Brook University
+- **[2016 – 2018]** B.A. in Linguistics, _Summa Cum Laude_, Stony Brook University
+- **[2013 – 2016]** Coursework in Computer Science & Japanese, Suffolk County Community College
 
 ## Projects
 
-- [**Studying Saturdays**](https://derekandersen.net/blog/studying-saturdays) — a weekly casual learning event that takes place in my Discord server
-- [**My blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing `Node.js`, `showdown.js`, and `mustache.js`
-- [**MingyJongo**](https://github.com/Dechrissen/MingyJongo) — a `Node.js` bot for Discord
-- [**Subregular language library**](https://github.com/Dechrissen/subregular-learning) — a machine learning library for subregular language research
+- [**Studying Saturdays**](https://derekandersen.net/blog/studying-saturdays) — an automated weekly learning event that takes place in a Discord server
+- [**Custom blog engine**](https://derekandersen.net/blog/new-blog-engine) — the backend for my blog, utilizing `Node.js`, `showdown.js`, and `mustache.js`
+- [**MLRegTest** (co-author)](https://github.com/heinz-jeffrey/subregular-learning) — a machine learning library for subregular language research
 - [**buzzrec**](https://github.com/Dechrissen/buzzrec) — a recommendation engine for academic papers in linguistics, using a content-based filtering approach
-- [**Language models**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: _n_-grams and PCFGs
+- [**Language modeling**](https://github.com/Dechrissen/LIN538-Final) — a comparison of two different language modeling techniques: _n_-grams and PCFGs
 - [**banjospeedruns.com**](https://banjospeedruns.com/) — the community website for the Banjo-Kazooie speedrunning community
 - [**Bingo-Toolie**](https://banjospeedruns.com/bt/bingo-toolie) — a companion web app for Banjo-Tooie speedrun bingo written with jQuery
-- [**PokeQuiz**](https://pypi.org/project/pokequiz/) — a Python package for command-line Pokémon quizzes
-- [**speedrunb0t**](https://github.com/Dechrissen/speedrunb0t) — an IRC bot for [twitch.tv](https://www.twitch.tv/) with [speedrun.com](https://www.speedrun.com/) integration
+- [**PokeQuiz**](https://pypi.org/project/pokequiz/) — a Python package for command-line Pokémon knowledge quizzes
+- [**speedrunb0t**](https://github.com/Dechrissen/speedrunb0t) — an IRC chatbot for [twitch.tv](https://www.twitch.tv/) with [speedrun.com](https://www.speedrun.com/) integration
 
 ## Coursework
 
