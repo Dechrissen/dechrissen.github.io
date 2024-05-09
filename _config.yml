@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/minimal@v0.2.0
 title: Derek Andersen
 description: Computational Linguist & NLU Developer
 show_downloads: false
