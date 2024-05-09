@@ -10,7 +10,7 @@ layout: default
 
 I graduated from Stony Brook University with an M.A. in Computational Linguistics in January 2021. I am interested in linguistics and its application to language technology and natural language understanding.
 
-I have experience with the **Linux** command line, **Python**, and using **Git** for version control. I have used the **Java Speech Grammar Format (JSGF)** extensively for grammar creation for use in speech recognition. I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
+I have experience with the **Linux** command line, **Python**, and using **Git** for version control. I have used the **Java Speech Grammar Format (JSGF)** extensively for grammar development for use in speech recognition. I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
 
 I've also worked with web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, and **jQuery** to develop a few websites and web apps.
 
@@ -20,9 +20,13 @@ I've also worked with web development tools like **Node.js**, **JavaScript**, **
 
 ## Education
 
-- **[2019 – 2021]** M.A. in Computational Linguistics, Stony Brook University
-- **[2016 – 2018]** B.A. in Linguistics, _Summa Cum Laude_, Stony Brook University
-- **[2013 – 2016]** Coursework in Computer Science & Japanese, Suffolk County Community College
+- **2019 – 2021** | M.A. in Computational Linguistics, Stony Brook University
+- **2016 – 2018** | B.A. in Linguistics, _Summa Cum Laude_, Stony Brook University
+- **2013 – 2016** | Coursework in Computer Science & Japanese, Suffolk County Community College
+
+## Publications
+
+- **MLRegTest: A Benchmark for the Machine Learning of Regular Languages** (co-author) [abstract](https://arxiv.org/abs/2304.07687) [paper](https://arxiv.org/pdf/2304.07687) [code](https://github.com/heinz-jeffrey/subregular-learning)
 
 ## Projects
 
