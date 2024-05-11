@@ -4,17 +4,19 @@ layout: default
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
+<img class="headshot" src="./assets/me.jpg" />
+
 <p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> • <a href="https://dechrissen.github.io/assets/resume.pdf"  target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
 ## About Me
 
 I graduated from Stony Brook University with a Master's in Computational Linguistics in January 2021. I am interested in linguistics and its application to language technology and natural language understanding.
 
-I have extensive experience with the **Linux** command line, **Python** for scripting and tools, and **Git** for version control. I've used the **Java Speech Grammar Format (JSGF)** in grammar development to be used as training data for NLU machine learning model training. I also managed the training of said models, including error analysis and model accuracy evaluation.
+I have extensive experience with the **Linux** command line, **Python** for scripting and tools, and **Git** for version control. I've used the **Java Speech Grammar Format (JSGF)** in context-free grammar development to be used as training data for NLU machine learning models. I've also coordinated the training of said models, including error analysis and model accuracy evaluation.
 
 I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
 
-I've also worked with web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, **Mustache**, and **jQuery** to develop a few websites and web apps.
+I've also worked with multiple web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, **Mustache**, and **jQuery** to develop websites and web apps.
 
 ### Some useful links
 

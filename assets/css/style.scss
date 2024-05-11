@@ -1,8 +1,16 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";
 
 div#header {
   display:none;
+}
+
+img.headshot {
+  height: 12rem;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
