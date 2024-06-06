@@ -8,7 +8,7 @@ layout: default
 
 <p style="text-align: center; font-size: 20px;"> <a href="mailto:derek@derekandersen.net"  target="_blank"><i class="fa fa-envelope"></i></a> • <a href="https://github.com/Dechrissen"  target="_blank"><i class="fa fa-github"></i></a> • <a href="https://www.linkedin.com/in/derekcandersen/"  target="_blank"><i class="fa fa-linkedin"></i></a> • <a href="https://derekandersen.net/"  target="_blank"><i class="fa fa-globe"></i></a> • <a href="https://dechrissen.github.io/assets/resume.pdf"  target="_blank"><i class="fa fa-file-text-o"></i></a> </p>
 
-## About Me
+## About
 
 I graduated from Stony Brook University with a Master's in Computational Linguistics in January 2021. I am interested in linguistics and its application to language technology and natural language understanding.
 
@@ -18,7 +18,7 @@ I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've uti
 
 I've also worked with multiple web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, **Mustache**, and **jQuery** to develop websites and web apps.
 
-### Some useful links
+### Some relevant links
 
 - [my résumé](https://dechrissen.github.io/assets/resume.pdf)
 - [my academic papers, project reports, and code repositories](https://dechrissen.github.io/academic-output.html)
