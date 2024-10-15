@@ -49,7 +49,7 @@ Project | Description
 
 ## Publications
 
-- **2023** _"MLRegTest: A Benchmark for the Machine Learning of Regular Languages"_ (co-author) [[abstract]](https://arxiv.org/abs/2304.07687) [[paper]](https://arxiv.org/pdf/2304.07687) [[code]](https://github.com/heinz-jeffrey/subregular-learning)
+- **2024** _"MLRegTest: A Benchmark for the Machine Learning of Regular Languages"_ (co-author) [[abstract]](https://jmlr.org/papers/v25/23-0518.html) [[paper]](https://jmlr.org/papers/volume25/23-0518/23-0518.pdf) [[code]](https://github.com/heinz-jeffrey/subregular-learning)
 
 ## Coursework
 
