@@ -10,13 +10,11 @@ layout: default
 
 ## About
 
-I graduated from Stony Brook University with a Master's in Computational Linguistics in January 2021. I am interested in linguistics and its application to language technology and natural language understanding.
+I hold a Master’s in Computational Linguistics from Stony Brook University, where I focused on the intersection of language technology and natural language understanding (NLU). My background includes hands-on experience enhancing NLU models and improving their accuracy for voice assistant applications. I've developed and optimized models using techniques such as **context-free grammars** (CFG) in the **Java Speech Grammar Format** (JSGF) and supported model training through error analysis and accuracy evaluation.
 
-I have extensive experience with the **Linux** command line, **Python** for scripting and tools, and **Git** for version control. I've used the **Java Speech Grammar Format (JSGF)** in context-free grammar development to be used as training data for NLU machine learning models. I've also coordinated the training of said models, including error analysis and model accuracy evaluation.
+I bring a strong technical toolkit, including **Python** for scripting and tool development, the **Linux command line**, and **Git** for version control. I’ve also worked with language modeling approaches like **_n_-grams** and **probabilistic context-free grammars** (PCFGs) and utilized **content-based filtering** to develop recommendation systems.
 
-I've worked with **_n_-grams** and **PCFGs** for language modeling, and I've utilized **content-based filtering** for recommendation software development.
-
-I've also worked with multiple web development tools like **Node.js**, **JavaScript**, **HTML/CSS**, **Mustache**, and **jQuery** to develop websites and web apps.
+Alongside my work in NLU, I’ve developed websites and web applications using **JavaScript**, **Node.js**, **Express**, **jQuery**, **HTML/CSS**, **Mustache**, and **MongoDB**, further expanding my software development skill set. I'm passionate about applying my skills to new challenges in programming and web development.
 
 ### Some relevant links
 
@@ -29,7 +27,7 @@ I've also worked with multiple web development tools like **Node.js**, **JavaScr
 
 Year | Degree Earned | Institution
 ----- | ----- | -----
-**2019 – 2021** | M.A. in Computational Linguistics | Stony Brook University
+**2019 – 2021** | M.A. in Computational Linguistics, _Summa Cum Laude_ | Stony Brook University
 **2016 – 2018** | B.A. in Linguistics, _Summa Cum Laude_ | Stony Brook University
 **2013 – 2016** | Coursework in Computer Science & Japanese | Suffolk County College
 
