@@ -18,10 +18,10 @@ Alongside my work in NLU, I’ve developed websites and web applications using *
 
 ### Some relevant links
 
-- [my résumé](https://dechrissen.github.io/assets/resume.pdf)
-- [my academic papers, project reports, and code repositories](https://dechrissen.github.io/academic-output.html)
-- [my LinkedIn profile](https://www.linkedin.com/in/derekcandersen/)
-- [my GitHub profile](https://github.com/Dechrissen)
+- [Résumé](https://dechrissen.github.io/assets/resume.pdf)
+- [Academic papers, projects, and code](https://dechrissen.github.io/academic-output.html)
+- [LinkedIn](https://www.linkedin.com/in/derekcandersen/)
+- [GitHub](https://github.com/Dechrissen)
 
 ## Education
 
@@ -38,7 +38,7 @@ Project | Description
 [Headline Snap Toolkit](https://github.com/Dechrissen/hstk) | a toolkit for creating and interfacing with a database of news headlines created with Snapchat 
 [Studying Saturdays](https://derekandersen.net/blog/studying-saturdays) | an automated weekly learning event that takes place in a Discord server
 [Custom blog engine](https://derekandersen.net/blog/new-blog-engine) | the backend for my blog, utilizing Node.js, Showdown.js, and Mustache.js
-[buzzrec](https://github.com/Dechrissen/buzzrec) | a recommendation engine for academic papers in linguistics, utilizing content-based filtering
+[buzzrec](https://github.com/Dechrissen/buzzrec) (Master's thesis) | a recommendation engine for academic papers in linguistics, utilizing content-based filtering
 [Language modeling](https://github.com/Dechrissen/LIN538-Final) | a comparison of two different language modeling techniques: _n_-grams and PCFGs
 [banjospeedruns.com](https://banjospeedruns.com/) | the community website for the Banjo-Kazooie speedrunning community
 [Bingo-Toolie](https://banjospeedruns.com/bt/bingo-toolie) | a companion web app for Banjo-Tooie speedrun bingo written with jQuery
